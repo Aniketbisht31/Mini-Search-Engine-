@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+asyncpg
+SQLAlchemy[binary]
+psycopg[binary]
+python-dotenv
+nltk
+httpx
+pytest
