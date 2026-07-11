@@ -28,3 +28,4 @@ Features:
 
 - `GET /search?q=<query>`
 - `POST /documents` to add documents
+- 
